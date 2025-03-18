@@ -19,5 +19,12 @@ This platform aims to redefine digital publishing by creating a **secure, transp
 - **Immutable & Secure**: Your posts are stored securely on the blockchain forever.  
 - **Low Transaction Fees**: Say goodbye to high commissions—earn directly from readers.  
 - **Smart Contract Automation**: Seamless reward distribution and secure transactions.  
+## Contract Address
 
-This project is more than just a blogging platform—it is a step toward **fair and censorship-free digital expression**. Let’s build the future of decentralized content together.
+0xc7eb0de328a4bf32375ea06ea06b8f4d03d857854516f566d7ff479b78027431
+
+
+![image](https://github.com/user-attachments/assets/ebc92e2e-325f-4c40-be90-29c52cc2dfcf)
+
+
+This project is a step towards **fair and censorship-free digital expression**. Let’s build the future of decentralized content together.
