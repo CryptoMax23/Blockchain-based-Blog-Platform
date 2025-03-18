@@ -1,1 +1,16 @@
 
+[package]
+name = "blog"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = "0xaeaad8c9d397d4e5d6e6ecc23ae6912d0733603eae85533cb9ff7a1165b41ea7"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
